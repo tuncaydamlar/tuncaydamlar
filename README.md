@@ -3,7 +3,7 @@
 
 ##  💫 Whoami
 🔭 I'm currently working as a Software Developer at     [@cyrops](https://cyrops.com)  
-😎 I'm also the Co-Founder of @cyrops    
+😎 I'm also the Co-Founder of [@cyrops](https://cyrops.com)   
 📫 How to reach me: damlartuncay@gmail.com
 
 #### 🌐 Socials: 
