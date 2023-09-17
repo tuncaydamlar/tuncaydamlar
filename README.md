@@ -6,7 +6,7 @@
 😎 I'm also the Co-Founder of @cyrops    
 📫 How to reach me: damlartuncay@gmail.com
 
-#### 📭 Socials: 
+#### 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=&background=white)](https://linkedin.com/in/tuncaydamlar) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/tuncaydmlr) 
 
 #### 💻 Tech Stack:
